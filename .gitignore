@@ -1,0 +1,11 @@
+data/
+work/.ipynb_checkpoints
+
+.viminfo
+.python_history
+.local
+.ipython/
+.jupyter/
+.bash_history
+.cache/
+.config/
